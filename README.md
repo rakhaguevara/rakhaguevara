@@ -21,12 +21,12 @@ I am currently actively learning as a software developer and data scientist sinc
 
 ---
   
-### Github Statistic
-<p align="left">
-<a href="https://github.com/rakhaguevara">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakhaguevara&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakhaguevara_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
   <br>
   <br>
