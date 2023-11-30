@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Rakha Dzikra Guevara.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+An independent Software Engineer who loves learning and creating shared projects on web and mobile technologies! I love JavaScript and use it as my main language to create projects.
 
 I am currently actively learning as a software developer and data scientist since 2020 in various world courses such as <a href="https://github.com/dicodingacademy">@dicodingacademy</a> ,<a href="https://github.com/dicodingacademy">@codepolitan</a> & <a href="https://www.freecodecamp.org/fcc9833abd3-dba0-42f1-8ef5-795cbafb659b">@freecodecamp</a> .
 
