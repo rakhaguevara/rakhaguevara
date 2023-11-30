@@ -17,6 +17,9 @@ I am currently actively learning as a software developer and data scientist sinc
   <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind" title="Tailwind (Css Framework)" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
   <br>
   <br>
+  <br>
+
+---
   
 ### Github Statistic
 <p align="left">
