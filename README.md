@@ -10,7 +10,7 @@ I am currently actively learning as a software developer and data scientist sinc
 - ⚡ Fun fact: All my dice are five 5️⃣
 
 ### Tech Stack
-  <a href="#"><img align="left" alt="HTML" title="HTML5" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
+  <a href="#"><img align="left" alt="HTML" title="HTML5" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
   <a href="#"><img align="left" alt="Css3" title="Css3" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" /></a>
   <a href="https://www.javascript.com/"><img align="left" alt="React" title="React" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://react.dev/"><img align="left" alt="React" title="React (Javascript Framework)" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /></a>
