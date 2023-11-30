@@ -31,6 +31,9 @@ I am currently actively learning as a software developer and data scientist sinc
 
   <br>
   <br>
+  <br>
+
+  
 ---
 
 ### Reach me on
