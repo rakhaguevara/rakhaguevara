@@ -8,9 +8,11 @@ I am currently actively learning as a software developer and data scientist sinc
 - 💬 Feel free to ask me about web development 
 - 📫 How to reach me: rakha.guevara2505@gmail.com
 - 🕹️ Fun fact: All my dice are five 5️⃣
+  <br>
+  <br>
 
+---
 ### 🧰 Languages and Tools
-<br>
   <a href="#"><img align="left" alt="HTML" title="HTML5" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
   <a href="#"><img align="left" alt="Css3" title="Css3" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" /></a>
   <a href="https://www.javascript.com/"><img align="left" alt="React" title="React" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
@@ -18,9 +20,8 @@ I am currently actively learning as a software developer and data scientist sinc
   <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind" title="Tailwind (Css Framework)" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
   <br>
   <br>
-  <br>
 
----
+  #
   
 
 ### 📊 Stats
