@@ -2,7 +2,7 @@
 
 An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
-I am currently actively learning as a software developer since 2020 at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service.
+Saat ini saya aktif belajar sebagai seorang pengembang perangkat lunak dan data scientist sejak 2020 di berbagai kursus dunia seperti <a href="https://github.com/dicodingacademy">@dicodingacademy</a> ,<a href="https://github.com/dicodingacademy">@codepolitan</a> , dan <a https://www.freecodecamp.org/fcc9833abd3-dba0-42f1-8ef5-795cbafb659b">@freecodecamp</a> .
 
 - 🌱 I’m currently learning about fullstack web developer apps
 - 💬 Feel free to ask me about web development 
