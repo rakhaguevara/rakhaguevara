@@ -4,11 +4,10 @@ An independent Software Engineer who loves to create and share projects about we
 
 I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service.
 
-- 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
-- 🌱 I’m currently learning about cloud technology for back-end apps
-- 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: dimas@dicoding.com
-- ⚡ Fun fact: Father of a daughter
+- 🌱 I’m currently learning about fullstack web developer apps
+- 💬 Feel free to ask me about web development 
+- 📫 How to reach me: rakha.guevara2505@gmail.com
+- ⚡ Fun fact: All my dice are five 5️⃣
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
