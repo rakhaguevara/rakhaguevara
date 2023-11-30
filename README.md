@@ -10,11 +10,11 @@ I am currently actively learning as a software developer and data scientist sinc
 - ⚡ Fun fact: All my dice are five 5️⃣
 
 ### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
-  <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
+  <a href="#"><img align="left" alt="HTML" title="HTML5" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+  <a href="#"><img align="left" alt="Css3" title="Css3" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" /></a>
+  <a href="https://www.javascript.com/"><img align="left" alt="React" title="React" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+  <a href="https://react.dev/"><img align="left" alt="React" title="React (Javascript Framework)" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /></a>
+  <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind" title="Tailwind (Css Framework)" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg" /></a>
   <br>
   <br>
   
