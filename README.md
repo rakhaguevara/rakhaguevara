@@ -2,23 +2,13 @@
 
 An independent Software Engineer who loves learning and creating shared projects on web and mobile technologies! I love JavaScript and use it as my main language to create projects.
 
-   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+I am currently actively learning as a software developer and data scientist since 2020 in various world courses such as <a href="https://github.com/dicodingacademy">@dicodingacademy</a> ,<a href="https://github.com/dicodingacademy">@codepolitan</a> & <a href="https://www.freecodecamp.org/fcc9833abd3-dba0-42f1-8ef5-795cbafb659b">@freecodecamp</a> .
 
-<br>
-<br>
-<br>
+- 🔎 I’m currently learning about fullstack web developer apps
+- 💬 Feel free to ask me about web development 
+- 📫 How to reach me: rakha.guevara2505@gmail.com
+- 🕹️ Fun fact: All my dice are five 5️⃣
 
----
-  
 ### Tech Stack
   <a href="#"><img align="left" alt="HTML" title="HTML5" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
   <a href="#"><img align="left" alt="Css3" title="Css3" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" /></a>
