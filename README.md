@@ -4,10 +4,10 @@ An independent Software Engineer who loves learning and creating shared projects
 
 I am currently actively learning as a software developer and data scientist since 2020 in various world courses such as <a href="https://github.com/dicodingacademy">@dicodingacademy</a> ,<a href="https://github.com/dicodingacademy">@codepolitan</a> & <a href="https://www.freecodecamp.org/fcc9833abd3-dba0-42f1-8ef5-795cbafb659b">@freecodecamp</a> .
 
-- 🌱 I’m currently learning about fullstack web developer apps
+- 🔎 I’m currently learning about fullstack web developer apps
 - 💬 Feel free to ask me about web development 
 - 📫 How to reach me: rakha.guevara2505@gmail.com
-- ⚡ Fun fact: All my dice are five 5️⃣
+- 🕹️ Fun fact: All my dice are five 5️⃣
 
 ### Tech Stack
   <a href="#"><img align="left" alt="HTML" title="HTML5" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
@@ -23,11 +23,15 @@ I am currently actively learning as a software developer and data scientist sinc
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
+<a href="https://github.com/rakhaguevara">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+  <br>
+  <br>
+---
 
 ### Reach me on
 - <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
